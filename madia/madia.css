@@ -1,0 +1,33 @@
+@media (max-width: 660px) {
+  .header-content a {
+    display: none;
+  }
+  .header ion-icon {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .main {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .main-content {
+    text-align: center;
+  }
+  .post-block {
+    flex-direction: column;
+  }
+  .works-box {
+    flex-direction: column;
+    align-items: center;
+  }
+  .works-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media (max-width: 600px) {
+}
+@media (max-width: 600px) {
+}
